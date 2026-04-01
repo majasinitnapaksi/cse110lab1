@@ -1,3 +1,3 @@
 # cse110lab1
 
-Soohwan's User page
+My favorite programming language is Java.
